@@ -6,7 +6,7 @@
 cool sticker
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluegummi&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=axvonx&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <!--
